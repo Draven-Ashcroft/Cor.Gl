@@ -4,32 +4,42 @@
 
 # 🧬 EndoX — Corpus Glandula
 
-**Interactive Endocrine System Simulator**
+Interactive endocrine system simulator visualizing human glands, hormonal regulation, and physiological responses.
 
 ---
 
-### 📖 Overview
-**EndoX** is a single-file educational simulation designed for CBSE Class 10 biology. It replaces static diagrams with a dynamic 3D interface, allowing students to explore the human endocrine system through live physiological interaction, powered by Supabase for asset delivery.
+## ✨ Features
 
-### ✨ Core Features
-* **Interactive 3D Body**: Rotate and inspect human anatomy with a custom lightweight renderer.
-* **Physiological Simulation**: Drive real-time responses with live sliders (e.g., Insulin vs. Glucagon, PTH-driven calcium release, ADH-driven water reabsorption).
-* **Intuitive Controls**: Tap to open gland demos, long-press for summary cards, and drag to navigate.
-* **Web-Integrated**: Utilizes cloud-hosted assets for dynamic, real-time image loading.
-
-### 🧠 Curriculum Coverage (NCERT)
-The simulator features dedicated interactive modules for:
-**Pituitary • Pineal • Thyroid • Parathyroid • Adrenal • Pancreas • Ovaries • Testes • Uterus**
-
-### 🤝 Credits
-* **Claude Opus 4.8**: Generation of HTML Code
-* **Open AI**: Debugging
-* **Supabase Server**: Hosting for images
+* **Interactive 3D Anatomy:** Explore the human endocrine system through a rotatable body model.
+* **Hormone Simulations:** Visualize physiological responses using real-time interactive controls.
+* **Educational Workflow:** Browser-based interface designed for scientific accuracy.
+* **Responsive Design:** Optimized for desktop and mobile devices.
 
 ---
 
-### 📜 License
+## 🚀 Built With & Hosted On
+
+* **Repository:** GitHub
+* **Hosting:** Supabase
+
+---
+
+## 🛠️ Credits & Acknowledgments
+
+* **Claude Opus 4.8:** Code generation & architecture.
+* **Replit:** Code improvisation & rapid prototyping.
+* **OpenAI:** Scientific debugging, testing & logic optimization.
+
+---
+
+## 👤 Author
+
+* **Draven Ashcroft**
+  * M.Sc. Ag. Entomology, ASRB NET
+  * DIPS Chain of Institutions
+
+---
+
+## 📜 License
+
 GPL-3.0
-
-### 👨‍🏫 Author
-**Draven-Ashcroft** | DIPS Chain of Institutions, Tanda
