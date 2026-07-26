@@ -19,7 +19,7 @@ Interactive endocrine system simulator visualizing human glands, hormonal regula
 
 ## 🚀 Built With & Hosted On
 
-* **Repository:** GitHub
+* **Repository:** Replit
 * **Hosting:** Supabase
 
 ---
