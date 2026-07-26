@@ -29,7 +29,7 @@ Interactive endocrine system simulator visualizing human glands, hormonal regula
 * **Claude Opus 4.8:** Code generation & architecture.
 * **Replit:** Code improvisation & rapid prototyping.
 * **OpenAI:** Scientific debugging, testing & logic optimization.
-* **Supabase** Asset Delivery.
+* **Supabase:** Asset Delivery.
 ---
 
 ## 👤 Author
