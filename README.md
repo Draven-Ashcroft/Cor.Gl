@@ -8,7 +8,7 @@
 
 > An interactive simulator exploring the human endocrine system through 3D anatomy, hormonal regulation, and physiological responses.
 
-**🧬 Endocrinology · 🧠 Hormonal Regulation · 🫀 Physiology**
+**🧬 Endocrinology · 🧠 Hormonal Regulation ·  🩸 Physiology**
 
 ---
 
